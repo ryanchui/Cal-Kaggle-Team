@@ -4,6 +4,6 @@ Welcome to the home of Data Science & Machine Learning. We are data enthusiast a
 
 Current Project: [Need to decide by 10/8]
 
-Participates: Ryan Chui, Nathan Mandi, Noah Gundotra, Yixing Cai, Arun Ramamurthy, Gregory Hache
+Participates: Ryan Chui, Nathan Mandi, Noah Gundotra, Yixing Cai, Arun Ramamurthy, Georgy Haché and Gary Nguyen 
 
 Licensed by: Data Science @Berkeley, Machine Learning @Berkeley, Statistics Undergraduate Student Associateion
