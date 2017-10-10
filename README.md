@@ -7,6 +7,7 @@ Current Project: CDiscount Image Classification challenge  https://www.kaggle.co
 To do list by next meeting:
 - Expect everyone has signed up on Kaggle by this Sunday, 10/15, so we can register as a team.
 - Visualize 5 pictures and be able to explain their category tags.
+- Be familiar with the dataset and problem specification.
 - Read some online tutorial documents (ie: https://www.tensorflow.org/tutorials/image_recognition) 
 
 Participates: Ryan Chui, Nathan Mandi, Noah Gundotra, Yixing Cai, Arun Ramamurthy, Georgy Haché, Gary Nguyen and Pravin Ravishanker
