@@ -10,6 +10,8 @@ To do list by next meeting:
 - Be familiar with the dataset and problem specification.
 - Read some online tutorial documents (ie: https://www.tensorflow.org/tutorials/image_recognition) 
 
+Note that this project ends in December 14, 2017. Please take this seriously.
+
 Participates: Ryan Chui, Nathan Mandi, Noah Gundotra, Yixing Cai, Arun Ramamurthy, Georgy Haché, Gary Nguyen and Pravin Ravishanker
 
 Licensed by: Data Science @Berkeley, Machine Learning @Berkeley, Statistics Undergraduate Student Associateion
