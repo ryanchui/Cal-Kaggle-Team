@@ -5,7 +5,7 @@ Welcome to the home of Data Science & Machine Learning. We are data enthusiast a
 Current Project: CDiscount Image Classification challenge  https://www.kaggle.com/c/cdiscount-image-classification-challenge
 
 To do list by next meeting:
-- Expect everyone has signed up on Kaggle by this Sunday, 10/15, so we can register as a team.
+- Expect everyone has signed up on Kaggle and register the competition by this Sunday, 10/15, and we will register as a team.
 - Visualize 5 pictures and be able to explain their category tags.
 - Be familiar with the dataset and problem specification.
 - Read some online tutorial documents (ie: https://www.tensorflow.org/tutorials/image_recognition) 
